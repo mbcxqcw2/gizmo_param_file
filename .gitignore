@@ -1,0 +1,6 @@
+#Note: this gitignore allows us to ignore c executables with no extension, e.g. grab_packet, and the __pycache__ directory which appears after running the code. It comes from https://stackoverflow.com/questions/5711120/gitignore-binary-files-that-have-no-extension
+
+#Ignore all
+*
+#Unignore all with extensions
+!*.*
